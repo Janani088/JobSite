@@ -32,6 +32,7 @@ import Card from '@/components/Card.vue'
               Add Job
             </RouterLink>
           </Card>
+          </Card>
         </div>
       </div>
     </section>
